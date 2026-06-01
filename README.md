@@ -1,4 +1,4 @@
-https://drive.google.com/file/d/1PDZcWuiXPLLjq4LH159mf6oiWTPF1uZi/view?usp=sharinghttps://drive.google.com/file/d/1PDZcWuiXPLLjq4LH159mf6oiWTPF1uZi/view?usp=sharing
+https://drive.google.com/file/d/1E0bf5d8B5A6797AyzVonOUtLUNY5fSF_/view?usp=sharing
 
 Screen Recording Video -  HirePilot Ai powered interview simulator 
 
