@@ -14,7 +14,6 @@ Screen Recording Video -  HirePilot Ai powered interview simulator
 
 **HirePilot** is an AI-powered mock interview platform that helps candidates prepare for technical interviews through adaptive AI-driven interview simulations. It provides realistic interview experiences with voice interaction, real-time feedback, and comprehensive performance reports.
 
-🔗 **Live Demo:** [https://hirepilot-frontend.onrender.com](https://hirepilot-frontend.onrender.com)
 
 ---
 
